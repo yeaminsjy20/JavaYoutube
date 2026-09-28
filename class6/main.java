@@ -7,7 +7,7 @@ public class main {
                 System.out.println("Bangladesh");
                 break;
             case 2:
-                System.out.println("USA");
+                System.out.println("UK");
                 break;
             default:
                 System.out.println("Out of earth");
